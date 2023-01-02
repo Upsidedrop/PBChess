@@ -247,6 +247,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &40305698
 GameObject:
   m_ObjectHideFlags: 0
@@ -455,6 +456,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &60098854
 GameObject:
   m_ObjectHideFlags: 0
@@ -999,6 +1001,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &155114863
 GameObject:
   m_ObjectHideFlags: 0
@@ -1375,6 +1378,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &270072844
 GameObject:
   m_ObjectHideFlags: 0
@@ -2042,6 +2046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &441539369
 GameObject:
   m_ObjectHideFlags: 0
@@ -2961,6 +2966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &740291068
 GameObject:
   m_ObjectHideFlags: 0
@@ -3085,6 +3091,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &754950757
 GameObject:
   m_ObjectHideFlags: 0
@@ -3461,6 +3468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &848023016
 GameObject:
   m_ObjectHideFlags: 0
@@ -3921,6 +3929,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &928014961
 GameObject:
   m_ObjectHideFlags: 0
@@ -4045,6 +4054,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &943407486
 GameObject:
   m_ObjectHideFlags: 0
@@ -4253,6 +4263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1024703269
 GameObject:
   m_ObjectHideFlags: 0
@@ -4713,6 +4724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1107844524
 GameObject:
   m_ObjectHideFlags: 0
@@ -4837,6 +4849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1116465955
 GameObject:
   m_ObjectHideFlags: 0
@@ -4961,6 +4974,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1152513986
 GameObject:
   m_ObjectHideFlags: 0
@@ -5085,6 +5099,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1190215224
 GameObject:
   m_ObjectHideFlags: 0
@@ -5209,6 +5224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1201555715
 GameObject:
   m_ObjectHideFlags: 0
@@ -5333,6 +5349,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1214617214
 GameObject:
   m_ObjectHideFlags: 0
@@ -5457,6 +5474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1228684954
 GameObject:
   m_ObjectHideFlags: 0
@@ -5466,6 +5484,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1228684955}
+  - component: {fileID: 1228684956}
   m_Layer: 0
   m_Name: Chess Board
   m_TagString: Untagged
@@ -5552,6 +5571,83 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1228684956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1228684954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c92209d06d6b2b347933147839ff7e61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pieces:
+  - W_Rook
+  - W_Knight
+  - W_Bishop
+  - W_Queen
+  - W_King
+  - W_Bishop
+  - W_Knight
+  - W_Rook
+  - W_Pawn
+  - W_Pawn
+  - W_Pawn
+  - W_Pawn
+  - W_Pawn
+  - W_Pawn
+  - W_Pawn
+  - W_Pawn
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - B_Rook
+  - B_Knight
+  - B_Bishop
+  - B_Queen
+  - B_King
+  - B_Bishop
+  - B_Knight
+  - B_Rook
+  - B_Pawn
+  - B_Pawn
+  - B_Pawn
+  - B_Pawn
+  - B_Pawn
+  - B_Pawn
+  - B_Pawn
+  - B_Pawn
 --- !u!1 &1247433077
 GameObject:
   m_ObjectHideFlags: 0
@@ -5760,6 +5856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1284083992
 GameObject:
   m_ObjectHideFlags: 0
@@ -6220,6 +6317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1319971455
 GameObject:
   m_ObjectHideFlags: 0
@@ -6512,6 +6610,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1421282873
 GameObject:
   m_ObjectHideFlags: 0
@@ -6720,6 +6819,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1439201803
 GameObject:
   m_ObjectHideFlags: 0
@@ -7096,6 +7196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1517043793
 GameObject:
   m_ObjectHideFlags: 0
@@ -7466,6 +7567,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1640781071
 GameObject:
   m_ObjectHideFlags: 0
@@ -7926,6 +8028,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1764303068
 GameObject:
   m_ObjectHideFlags: 0
@@ -8050,6 +8153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1769822760
 GameObject:
   m_ObjectHideFlags: 0
@@ -8174,6 +8278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1865030703
 GameObject:
   m_ObjectHideFlags: 0
@@ -8634,6 +8739,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &1957370105
 GameObject:
   m_ObjectHideFlags: 0
@@ -9094,6 +9200,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &2062366478
 GameObject:
   m_ObjectHideFlags: 0
@@ -9302,6 +9409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &2094157460
 GameObject:
   m_ObjectHideFlags: 0
@@ -9594,6 +9702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
 --- !u!1 &2139743605
 GameObject:
   m_ObjectHideFlags: 0
@@ -9802,3 +9911,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99739ef8769f4384ebad836db5860de5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TileManager: {fileID: 1228684956}
